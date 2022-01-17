@@ -5,6 +5,6 @@ Credit: https://github.com/ChrisMandich/GetSplunk for Downloading Splunk Univers
 
 
 # Instructions
-1. Download PS script to a Drive/Folder that has several GB of Free Disk Space - you can download all available verions of Splunk Enterprise
+1. Download PS script to a Drive/Folder that has several GB of Free Disk Space - you can download all available versions of Splunk Enterprise
 2. Review Script Code
 3. Run Script in PowerShell CLI
